@@ -27,6 +27,8 @@ class User extends Authenticatable
      */
     protected $fillable = [
         'name', 'email', 'password',
+        'location', 'avatar', 'slug',
+        'phone_number'
     ];
 
     /**
@@ -53,5 +55,13 @@ class User extends Authenticatable
     public function getRouteKeyName()
     {
         return 'slug';
+    }
+
+    /**
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function notices()
+    {
+        return $this->hasMany(Notice::class);
     }
 }

@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52c17507-b057-4124-9773-b06656ebaab5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/AuthController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/CategoriesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/NoticeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Notice.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_08_080311_create_categories_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_08_080321_create_notices_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Notice.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Notice.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +136,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -166,6 +158,7 @@
       <updated>1581093336644</updated>
       <workItem from="1581093427502" duration="4617000" />
       <workItem from="1581110655796" duration="5197000" />
+      <workItem from="1581184194390" duration="703000" />
     </task>
     <servers />
   </component>
@@ -180,10 +173,15 @@
       <screen x="1366" y="0" width="1360" height="728" />
     </state>
     <state x="1776" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1581150018846" />
-    <state x="1709" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581152257818">
-      <screen x="1366" y="0" width="1360" height="728" />
+    <state x="1729" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1581184203368">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1729" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.768@1366.0.1360.768" timestamp="1581184203368" />
+    <state x="1709" y="52" width="672" height="716" key="search.everywhere.popup" timestamp="1581184709083">
+      <screen x="1366" y="0" width="1360" height="768" />
     </state>
     <state x="1709" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1581152257818" />
+    <state x="1709" y="52" width="672" height="716" key="search.everywhere.popup/0.0.1366.728/1366.0.1360.768@1366.0.1360.768" timestamp="1581184709083" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
